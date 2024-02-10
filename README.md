@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django-Ecommerce-site
 Django-ecommerce is a fully open-source E-commerce platform built using Django Web Framework, designed with javascript, bootstrap,html,css
 
@@ -6,3 +7,7 @@ Django-ecommerce is a fully open-source E-commerce platform built using Django W
 ![Screenshot (24)](https://user-images.githubusercontent.com/97035908/221173054-5f34b000-2eeb-4380-9ce6-72f4e1b90188.png)
 
 
+=======
+# Django-Shopping-site
+Django-Shopping-site
+>>>>>>> c6b5eb39e1c6edbfd1034546fa2c8c9a46e59b22
